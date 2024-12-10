@@ -87,7 +87,7 @@ Restart버튼은 stage1 부터 재시작하는 것이고, Quit버튼은 게임�
 이 프로젝트를 실행하려면 다음이 필요합니다: 
 - Python 3.x
 - Pygame 라이브러리
--  이미지 및 폰트 파일 (제가 images 파일에 넣어두었어요.)
+-  이미지 및 폰트 파일 (제가 이미지는 images 파일 안 pmsimages에 저장해두었고, 폰트파일은 images파일 안 font에 저장해두었어요.)
 
 ## 설치 및 실행 방법 
 1. Python 3.x 설치:
