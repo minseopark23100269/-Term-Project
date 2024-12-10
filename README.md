@@ -83,6 +83,38 @@ stage 3까지 게임을 성공하면, 닭이 가고싶었던 목장으로 도착
 
 Restart버튼은 stage1 부터 재시작하는 것이고, Quit버튼은 게임을 끝내는 버튼입니다.
 
+## 요구사항 
+이 프로젝트를 실행하려면 다음이 필요합니다: 
+- Python 3.x
+- Pygame 라이브러리
+-  이미지 및 폰트 파일 (제가 images 파일에 넣어두었어요.)
+
+## 설치 및 실행 방법 
+1. Python 3.x 설치:
+   - [Python 공식 웹사이트](https://www.python.org/)에서 Python을 다운로드하고 설치하세요.
+   
+2.  Pygame 라이브러리 설치:
+   ```bash
+   pip install pygame
+ ```
+
+3. 리포지토리를 클론합니다:
+git clone https://github.com/minseopark23100269/-Term-Project.git
+
+4. 이미지 및 폰트 파일을 프로젝트 디렉토리에 배치합니다:
+
+- 이미지 파일: C:/Users/customer/OneDrive/pmsimages 경로에 저장되어야 합니다.
+- 사용자 정의 폰트 파일: C:/Users/customer/OneDrive/pmsimages/custom_font.ttf 경로에 저장되어야 합니다.
+
+5. Spyder에서 게임을 실행합니다:
+
+Spyder를 실행하고, 프로젝트 디렉토리에 있는 main.py 파일을 엽니다.
+
+상단의 "Run" 버튼을 클릭하여 코드를 실행합니다.
+
+   
+   
+
 
 
 
