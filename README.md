@@ -99,7 +99,7 @@ Restart버튼은 stage1 부터 재시작하는 것이고, Quit버튼은 게임�
  ```
 
 3. 리포지토리를 클론합니다:
-git clone https://github.com/minseopark23100269/-Term-Project.git
+git clone https://github.com/minseopark23100269/Term-Project.git
 
 4. 이미지 및 폰트 파일을 프로젝트 디렉토리에 배치합니다:
 
