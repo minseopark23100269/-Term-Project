@@ -104,8 +104,10 @@ git clone https://github.com/minseopark23100269/Term-Project.git
 
 4. 이미지 및 폰트 파일을 프로젝트 디렉토리에 배치합니다:
 
-- 이미지 파일: C:/Users/customer/OneDrive/pmsimages 경로에 저장되어야 합니다.
-- 사용자 정의 폰트 파일: C:/Users/customer/OneDrive/pmsimages/custom_font.ttf 경로에 저장되어야 합니다.
+- 이미지 파일: **C:/Users/customer/OneDrive/pmsimages/각이미지이름.png** 경로로 저장되어야 합니다.
+- 사용자 정의 폰트 파일: **C:/Users/customer/OneDrive/pmsimages/custom_font.ttf** 경로로 저장되어야 합니다.
+
+  (경로를 꼭 지켜주셔야 작동합니다!!)
 
 5. Spyder에서 게임을 실행합니다:
 
