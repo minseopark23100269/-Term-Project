@@ -108,7 +108,7 @@ git clone https://github.com/minseopark23100269/Term-Project.git
 
 5. Spyder에서 게임을 실행합니다:
 
-Spyder를 실행하고, 프로젝트 디렉토리에 있는 main.py 파일을 엽니다.
+Spyder를 실행하고, 프로젝트 디렉토리에 있는 23100269박민서텀프로젝트.py 파일을 엽니다.
 
 상단의 "Run" 버튼을 클릭하여 코드를 실행합니다.
 
